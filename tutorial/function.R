@@ -30,12 +30,3 @@ print(substract(x = n1, y = n2)) # -3
 print(multiply(x = n1, y = n2)) # 10
 print(divide(x = n1, y = n2)) # 0.4
 print(pow(x = n1, y = n2)) # 32
-
-
-range <- function(start , stop){
-    for(i in start:stop){
-        print(i)
-    }
-}
-
-range(1 , 10)

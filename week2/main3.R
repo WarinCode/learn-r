@@ -1,0 +1,10 @@
+books <- read.csv(file = "C:\\Users\\ACER USER5949486\\Desktop\\learn-r\\week2\\booksales.csv")
+View(books)
+
+print(books$Sales)
+print(books[['Days']])
+print(books[4])
+print(books[1,])
+print(books[2, 4])
+print(books[c(1, 3), c(1, 4)])
+print(books[c(1:3), c(2:3)])

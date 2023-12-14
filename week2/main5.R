@@ -4,7 +4,7 @@ View(df)
 
 print(df[4])
 print(df[2])
-print(df[ 3,])
+print(df[3, ])
 print(df[c(3:5)])
 print(df[c(3:5), ])
 print(df[c(5, 7, 8), ])

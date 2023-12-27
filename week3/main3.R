@@ -6,4 +6,5 @@ area <- function(base,height){
 
 ret <- area(4,2)
 print(ret[1])
-sprintf("rectangle area : %.2f and triangle area : %.2f", ret[0] , ret[1])
+print(ret[2])
+sprintf("rectangle area : %.2f and triangle area : %.2f", ret[1] , ret[2])

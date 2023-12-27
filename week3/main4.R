@@ -6,7 +6,7 @@ View(df)
 print(sum(df$Urban.Population))
 print(sum(df$Minor.Population))
 
-# ข้อ 2
+ข้อ 2
 for(i in 1:nrow(df)){
     if(df[i,"Urban.Population"] < 500) {
         print(df[i,"State"])

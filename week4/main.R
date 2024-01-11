@@ -9,7 +9,7 @@ mean_income2 = sum(df$Per.Capita.Income) / nrow(df)
 # print(mean_income2)
 
 median = median( x = df$Per.Capita.Income)
-sort(x = df$Per.Capita.Income)
+# print(sort(x = df$Per.Capita.Income))
 # print(median)
 
 # print(modeOf( x = df$Region ))
@@ -34,6 +34,8 @@ VAR = var(df$Per.Capita.Income)
 # print(MAD)
 # print(SD)
 # print(VAR)
+
+
 
 
 

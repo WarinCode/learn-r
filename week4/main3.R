@@ -4,7 +4,7 @@ library("lsr")
 
 # ข้อ 1
 meanWeight <- mean(data$Weight)
-meanHeight <- mean(dataHeight)
+meanHeight <- mean(data$Height)
 medianWeight <- median(data$Height)
 medianHeight <- median(data$Height)
 print(meanWeight)

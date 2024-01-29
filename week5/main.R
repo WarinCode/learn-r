@@ -1,5 +1,5 @@
 tips <- read.csv( file = "C:\\Users\\ACER USER5949486\\Desktop\\learn-r\\week5\\tip2.csv", header = TRUE, stringsAsFactors = TRUE)
-View(tips)
+# View(tips)
 
 n <- nrow(tips)
 p <- sum(tips$sex == 'Male') / n

@@ -15,7 +15,7 @@ z.alpha <- qnorm(alpha)
 sprintf("computed Z value : %.2f", z)
 sprintf("critical Z value: %.2f", z.alpha)
 
-pval <- pnorm(z)$
+pval <- pnorm(z)
 cat("p-value", pval)
 
 # 2.2

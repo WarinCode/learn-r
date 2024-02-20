@@ -1,0 +1,63 @@
+Gender,Major,Frequency,Fevourite_StoreNo,Food_Type,Food_Price,Drink_Type,Drink_Price
+Male,S09,1-2 Times,4,Made to order,50,Soft Drinks,15
+Female,S09,1-2 Times,4,Made to order,35,Fruit Juice,20
+Male,S09,Over 5 Times,1,Made to order,40,Coffee and Tea,20
+Female,S09,Never,4,Made to order,40,Drinking Water,7
+Female,S09,1-2 Times,7,Made to order,50,Soft Drinks,20
+Female,S09,1-2 Times,3,Made to order,40,Juice Smoothie,15
+Male,S09,3-4 Times,8,Made to order,30,Drinking Water,7
+Female,S09,1-2 Times,4,Made to order,40,Coffee and Tea,25
+Male,S09,1-2 Times,1,Made to order,40,Drinking Water,7
+Male,S09,3-4 Times,2,Made to order,40,Juice Smoothie,15
+Female,S10,3-4 Times,7,Made to order,35,Soft Drinks,20
+Male,S09,1-2 Times,2,Made to order,50,Juice Smoothie,20
+Male,S09,1-2 Times,4,Made to order,40,Drinking Water,7
+Male,S09,1-2 Times,8,Made to order,30,Drinking Water,7
+Male,S09,1-2 Times,7,Ready meals,35,Fruit Juice,20
+Female,S09,Never,1,Made to order,40,Soft Drinks,20
+Male,S09,Over 5 Times,1,Made to order,30,Coffee and Tea,10
+Female,S09,Over 5 Times,9,Made to order,50,Juice Smoothie,25
+Female,S10,3-4 Times,7,Made to order,35,Coffee and Tea,10
+Female,S09,Never,1,Made to order,0,Soft Drinks,25
+Female,S09,1-2 Times,7,Made to order,35,Fruit Juice,10
+Male,S09,3-4 Times,4,Made to order,50,Soft Drinks,15
+Male,S09,1-2 Times,4,Made to order,35,Drinking Water,10
+Female,S09,1-2 Times,3,Made to order,40,Soft Drinks,20
+Female,S09,1-2 Times,9,Ready meals,35,Drinking Water,10
+Female,S09,1-2 Times,7,Made to order,35,Drinking Water,10
+Female,S09,Never,4,Noodles,50,Juice Smoothie,30
+Female,S09,1-2 Times,8,Made to order,30,Coffee and Tea,10
+Female,S09,1-2 Times,8,Made to order,30,Coffee and Tea,10
+Male,S09,1-2 Times,2,Made to order,45,Fruit Juice,15
+Female,S09,Over 5 Times,7,Ready meals,40,Coffee and Tea,30
+Male,S09,1-2 Times,4,Made to order,40,Juice Smoothie,30
+Male,S09,1-2 Times,5,Made to order,40,Coffee and Tea,25
+Male,S09,Never,7,Made to order,50,Coffee and Tea,20
+Male,S10,Never,5,Made to order,60,Drinking Water,10
+Male,S09,1-2 Times,8,Made to order,40,Coffee and Tea,20
+Male,S09,1-2 Times,8,Ready meals,30,Drinking Water,7
+Female,S09,1-2 Times,9,Made to order,35,Juice Smoothie,20
+Male,S10,Never,3,Made to order,30,Milk Tea & Milk Shake,40
+Male,S10,1-2 Times,2,Made to order,50,Drinking Water,10
+Male,S09,Over 5 Times,10,Noodles,30,Drinking Water,7
+Male,S09,Over 5 Times,8,Made to order,40,Drinking Water,7
+Male,S09,Never,5,Made to order,40,Coffee and Tea,20
+Female,S09,3-4 Times,9,Made to order,30,Soft Drinks,20
+Female,S10,1-2 Times,9,Ready meals,40,Drinking Water,15
+Female,S09,1-2 Times,7,Made to order,50,Soft Drinks,20
+Female,S10,1-2 Times,9,Noodles,40,Soft Drinks,20
+Male,S09,1-2 Times,4,Noodles,50,Soft Drinks,20
+Female,S09,1-2 Times,7,Made to order,40,Soft Drinks,20
+Female,S09,1-2 Times,3,Made to order,70,Milk Tea & Milk Shake,40
+Male,S09,1-2 Times,7,Made to order,40,Coffee and Tea,20
+Male,S10,Over 5 Times,5,Made to order,40,Coffee and Tea,10
+Female,S10,3-4 Times,9,Made to order,40,Juice Smoothie,20
+Female,S09,1-2 Times,8,Made to order,40,Drinking Water,20
+Male,S09,1-2 Times,1,Made to order,45,Coffee and Tea,15
+Male,S09,1-2 Times,1,Made to order,50,Soft Drinks,20
+Male,S09,3-4 Times,8,Ready meals,30,Drinking Water,7
+Male,S09,3-4 Times,1,Made to order,50,Coffee and Tea,15
+Female,S09,1-2 Times,6,Others,80,Soft Drinks,15
+Female,S09,3-4 Times,4,Made to order,35,Soft Drinks,15
+Female,S09,1-2 Times,7,Made to order,30,Coffee and Tea,15
+Female,S10,3-4 Times,4,Made to order,40,Milk Tea & Milk Shake,40

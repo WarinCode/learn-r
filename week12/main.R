@@ -1,18 +1,18 @@
 library(DescTools)
 
 data <- read.csv("C:\\Users\\ACER USER5949486\\Desktop\\learn-r\\week12\\students.csv")
-# print(data)
+print(data)
 
-# A <- data[data$Blood == "A",]
-# B <- data[data$Blood == "B",]
-# O <- data[data$Blood == "O",]
+A <- data[data$Blood == "A",]
+B <- data[data$Blood == "B",]
+O <- data[data$Blood == "O",]
 
-# shapiro.test(as.numeric(A$GPA))
-# shapiro.test(as.numeric(B$GPA))
-# shapiro.test(as.numeric(O$GPA))
-#
-# qqnorm(O$GPA, main="Normal")
-# qqline(O$GPA)
+shapiro.test(as.numeric(A$GPA))
+shapiro.test(as.numeric(B$GPA))
+shapiro.test(as.numeric(O$GPA))
+
+qqnorm(O$GPA, main="Normal")
+qqline(O$GPA)
 
 Blood <- data$Blood
 GPA <- data$GPA

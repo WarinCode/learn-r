@@ -2,8 +2,8 @@
 <project version="4">
   <component name="RGraphicsSettings">
     <option name="height" value="305" />
-    <option name="imageNumber" value="7" />
-    <option name="outputDirectory" value="$PROJECT_DIR$/week10" />
+    <option name="imageNumber" value="9" />
+    <option name="outputDirectory" value="$PROJECT_DIR$/week12" />
     <option name="resolution" value="75" />
     <option name="version" value="2" />
     <option name="width" value="780" />
